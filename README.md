@@ -4,4 +4,4 @@
 
 欢迎加入到这个项目！
 
-[FSL](docs/FSL.md)
+[FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md)

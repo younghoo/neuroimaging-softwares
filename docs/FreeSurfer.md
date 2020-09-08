@@ -1,8 +1,12 @@
-# FreeSurfer
+# [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
 
-## 基本信息
+## 运行环境
 
-[FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)可以用于处理结构像、功能像和弥散像磁共振数据。可以在苹果和Linux系统上使用。
+* MacOS/Linux
+
+## 基本功能
+
+* 可以用于处理sMRI、fMRI和dMRI数据。
 
 ## 使用文档
 

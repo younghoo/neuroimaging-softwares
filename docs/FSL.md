@@ -16,7 +16,7 @@
 * [FNIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT)用于非线性配准，一般用于被试间配准。
 * [FSLVBM](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM)用于基于体素的形态学分析（VBM）。
 * [FDT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT)用于分析dMRI数据，具体地，*[eddy](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddy)*用于涡流头动校正等；*dtifit*用于拟合张量模型；*bedpostx*用于估计纤维束朝向分布；*probtracx2*用于概率性纤维束追踪。
-* [TBSS](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS)用于基于纤维束骨架的统计分析。具体地，就是通过将分离纤维束骨架并将变量（比如FA）投射到纤维束骨架的方式来减少空间配准的问题。
+* [TBSS](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS)用于基于纤维束骨架的统计分析。
 * [Randomise](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Randomise)使用permutation test进行假设检验和多重比较校正。
 * [Cluster](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Cluster)可以报告cluster信息，可以配合*Randomise*使用。
 * [FDR](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDR)用于进行FDR多重比较校正。

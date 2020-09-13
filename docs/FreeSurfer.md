@@ -7,6 +7,7 @@
 ## 基本功能
 
 * 可以用于处理sMRI、fMRI和dMRI数据。
+* [recon-all](http://surfer.nmr.mgh.harvard.edu/fswiki/recon-all/)对sMRI进行皮层重建的流程，具体步骤见[ReconAllTable](http://surfer.nmr.mgh.harvard.edu/fswiki/ReconAllTableStableV6.0)。
 
 ## 使用文档
 

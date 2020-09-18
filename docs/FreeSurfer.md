@@ -8,6 +8,14 @@
 
 * 可以用于处理sMRI、fMRI和dMRI数据。
 * [recon-all](http://surfer.nmr.mgh.harvard.edu/fswiki/recon-all/)对sMRI进行皮层重建的流程，具体步骤见[ReconAllTable](http://surfer.nmr.mgh.harvard.edu/fswiki/ReconAllTableStableV6.0)。
+* [mri_convert](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_convert)进行格式转换。
+* [mri\_robust\_template](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_robust_template)对sMRI追踪数据构建一个模板。
+* [talairach_avi](https://surfer.nmr.mgh.harvard.edu/fswiki/talairach_avi)在*recon-all*流程中，将图像配准到MNI305，生成的文件用于计算[eTIV](https://surfer.nmr.mgh.harvard.edu/fswiki/eTIV)。
+* [mri_normalize](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_normalize)在*recon-all*流程中，将图像白质部分信号调整为110左右。
+* [mri\_em\_register](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_em_register)进行图像配准。
+* [mri_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)进行脑提取。
+* [mri\_ca\_register](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_ca_register)进行图像配准。
+* [mri\_ca\_label](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_ca_label)对皮层下结构进行标记。
 
 ## 使用文档
 

@@ -2,7 +2,7 @@
 
 该项目汇总处理神经影像数据的软件信息，包括软件使用的各种文档和资料，方便大家查找。
 
-你可以通过提交[issue](https://github.com/act-china/neuroimaging-software-list/issues)或者pull request的方式参与进来！
+你可以通过提交issue或者pull request的方式参与进来！
 
 [FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md)
 

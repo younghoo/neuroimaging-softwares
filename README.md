@@ -4,7 +4,7 @@
 
 你可以通过提交issue或者pull request的方式参与进来！
 
-[FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md)
+[FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md) | [AFNI](docs/AFNI.md)
 
 ## License
 

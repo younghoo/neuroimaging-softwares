@@ -24,9 +24,22 @@
 * [3dTcorrMap](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTcorrMap_sphx.html#ahelp-3dtcorrmap)计算fMRI数据每个体素与其它体素的相关系数。
 * [3dTcorr1D](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTcorr1D_sphx.html#ahelp-3dtcorr1d)计算fMRI数据每个体素与一个或多个时间序列的相关系数。
 * [3dTcorrelate](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTcorrelate_sphx.html#ahelp-3dtcorrelate)计算两个fMRI数据对应体素的相关系数。
+* [3dToutcount](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dToutcount_sphx.html#ahelp-3dtoutcount)计算fMRI数据离群点的数量。
+* [3dTproject](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTproject_sphx.html#ahelp-3dtproject)去除fMRI数据中特定形式的信号，包括滤波。
+* [3dTshift](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTshift_sphx.html#ahelp-3dtshift)进行时间层校正。
+* [3dTsplit4D](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTsplit4D_sphx.html#ahelp-3dtsplit4d)将4D文件分离成多个3D文件。
+* [3dTstat](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dTstat_sphx.html#ahelp-3dtstat)计算4D数据每个体素上的统计值。
+* [3dcalc](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dcalc_sphx.html#ahelp-3dcalc)对每个体素分别进行各种计算操作。
+* [3ddot](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3ddot_sphx.html#ahelp-3ddot)计算任意两个体积的空间。
+* [3dinfo](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dinfo_sphx.html#ahelp-3dinfo)输出头文件(header)信息。
+* [3dmask_tool](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dmask_tool_sphx.html#ahelp-3dmask-tool)对mask进行各种操作。
+* [3dmaskave](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dmaskave_sphx.html#ahelp-3dmaskave)计算mask内所有体素的均值。
+* [3dresample](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dresample_sphx.html#ahelp-3dresample)对图像进行重采样。
+* [3dvolreg](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/programs/3dvolreg_sphx.html#ahelp-3dvolreg)将fMRI数据配准到某个体积上，可用于头动校正。
 
 
 ## 使用文档
 * 官方文档 [https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
 * 官方论坛: [https://afni.nimh.nih.gov/afni/community/board/list.php?1](https://afni.nimh.nih.gov/afni/community/board/list.php?1)
 * 源代码：[https://github.com/afni/afni](https://github.com/afni/afni)
+* 分类程序列表：[https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/educational/classified_progs.html#edu-class-prog](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/educational/classified_progs.html#edu-class-prog)

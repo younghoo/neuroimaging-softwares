@@ -39,3 +39,4 @@
 * 官方文档: [https://surfer.nmr.mgh.harvard.edu/fswiki](https://surfer.nmr.mgh.harvard.edu/fswiki)
 * 官方邮件列表: [https://www.mail-archive.com/freesurfer@nmr.mgh.harvard.edu/](https://www.mail-archive.com/freesurfer@nmr.mgh.harvard.edu/)
 * 源代码: [https://github.com/freesurfer/freesurfer](https://github.com/freesurfer/freesurfer)
+* 命令行工具列表：[https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferCommands](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferCommands)

@@ -39,7 +39,7 @@
 
 
 ## 使用文档
-* 官方文档 [https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
+* 官方文档: [https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
 * 官方论坛: [https://afni.nimh.nih.gov/afni/community/board/list.php?1](https://afni.nimh.nih.gov/afni/community/board/list.php?1)
 * 源代码：[https://github.com/afni/afni](https://github.com/afni/afni)
 * 分类程序列表：[https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/educational/classified_progs.html#edu-class-prog](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/educational/classified_progs.html#edu-class-prog)

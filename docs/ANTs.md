@@ -5,6 +5,8 @@
 
 ## 基本功能
 
+* 图像配准
+
 ## 使用文档
 
 * 官方文档：[http://stnava.github.io/ANTsDoc/](http://stnava.github.io/ANTsDoc/)

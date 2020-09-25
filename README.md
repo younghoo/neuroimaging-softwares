@@ -4,9 +4,12 @@
 
 你可以通过提交issue或者pull request的方式参与进来！
 
-[FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md) | [AFNI](docs/AFNI.md) | [SPM](docs/SPM.md) | [ANTs](docs/ANTs.md)
+[AFNI](docs/AFNI.md) | [ANTs](docs/ANTs.md) | [FreeSurfer](docs/FreeSurfer.md) | [FSL](docs/FSL.md) | [SPM](docs/SPM.md)
 
+[CAT](docs/CAT.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [fMRIPrep](docs/fMRIPrep.md) | [PANDA](docs/PANDA.md)
 
-## License
+[缩略词表](docs/Abbreviation.md)
+
+## 许可证
 
 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。

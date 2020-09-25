@@ -4,9 +4,11 @@
 
 你可以通过提交issue或者pull request的方式参与进来！
 
-[AFNI](docs/AFNI.md) | [ANTs](docs/ANTs.md) | [FreeSurfer](docs/FreeSurfer.md) | [FSL](docs/FSL.md) | [SPM](docs/SPM.md)
+[FSL](docs/FSL.md) | [SPM](docs/SPM.md) | [FreeSurfer](docs/FreeSurfer.md) | [AFNI](docs/AFNI.md) | [ANTs](docs/ANTs.md) | [GIFT](docs/GIFT.md)
 
 [CAT](docs/CAT.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [fMRIPrep](docs/fMRIPrep.md) | [PANDA](docs/PANDA.md)
+
+[MRIcroGL](docs/MRIcroGL.md) | [MRIcron](docs/MRIcron.md)
 
 [缩略词表](docs/Abbreviation.md)
 

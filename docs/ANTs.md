@@ -5,7 +5,12 @@
 
 ## 基本功能
 
-* 图像配准
+* antsRegistrationSyN.sh用于线性和非线性配准。
+* antsCorticalThickness.sh估计皮层厚度的pipeline。
+* antsMultivariateTemplateConstruction2.sh根据一组被试构建模板。
+* antsApplyTransforms将映射关系应用到图像上。
+* antsMotionCorr进行头动校正。
+* ImageMath进行数学运算。
 
 ## 使用文档
 

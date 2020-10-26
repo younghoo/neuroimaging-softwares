@@ -6,9 +6,9 @@
 
 [AFNI](docs/AFNI.md) | [ANTs](docs/ANTs.md) | [FSL](docs/FSL.md) | [FreeSurfer](docs/FreeSurfer.md) | [SPM](docs/SPM.md)
 
-[CAT](docs/CAT.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [fMRIPrep](docs/fMRIPrep.md) | [GIFT](docs/GIFT.md) | [PANDA](docs/PANDA.md) | [volBrain](docs/volBrain.md)
+[brainGraph](docs/brainGraph.md) | [BRAPH](docs/BRAPH.md) | [CAT](docs/CAT.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [fMRIPrep](docs/fMRIPrep.md) | [GIFT](docs/GIFT.md) | [PANDA](docs/PANDA.md) | [volBrain](docs/volBrain.md)
 
-[BrainNet-Viewer](docs/BrainNet-Viewer.md) | [fsbrain](docs/fsbrain.md) | [ITK-SNAP](docs/ITK-SNAP.md) | [MRIcroGL](docs/MRIcroGL.md) | [MRIcron](docs/MRIcron.md)
+[BrainNet-Viewer](docs/BrainNet-Viewer.md) | [fsbrain](docs/fsbrain.md) | [ggseg](docs/ggseg.md) | [ITK-SNAP](docs/ITK-SNAP.md) | [MRIcroGL](docs/MRIcroGL.md) | [MRIcron](docs/MRIcron.md)
 
 [缩略词表](docs/Abbreviation.md)
 

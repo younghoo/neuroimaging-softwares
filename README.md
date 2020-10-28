@@ -8,7 +8,7 @@
 
 [brainGraph](docs/brainGraph.md) | [BRAPH](docs/BRAPH.md) | [CAT](docs/CAT.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [fMRIPrep](docs/fMRIPrep.md) | [GRETNA](docs/GRETNA.md) | [GIFT](docs/GIFT.md) | [PANDA](docs/PANDA.md) | [volBrain](docs/volBrain.md)
 
-[BrainNet-Viewer](docs/BrainNet-Viewer.md) | [freesurfer\_statsurf\_display](docs/freesurfer_statsurf_display.md) | [fsbrain](docs/fsbrain.md) | [ggseg](docs/ggseg.md) | [ITK-SNAP](docs/ITK-SNAP.md) | [MRIcroGL](docs/MRIcroGL.md) | [MRIcron](docs/MRIcron.md)
+[BrainNet-Viewer](docs/BrainNet-Viewer.md) | [freesurfer\_statsurf\_display](docs/freesurfer_statsurf_display.md) | [fsbrain](docs/fsbrain.md) | [ggseg](docs/ggseg.md) | [ITK-SNAP](docs/ITK-SNAP.md) | [MRIcroGL](docs/MRIcroGL.md) | [MRIcron](docs/MRIcron.md) | [xjView](docs/xjView.md)
 
 [缩略词表](docs/Abbreviation.md)
 

@@ -18,3 +18,4 @@ FDR            |     False Discovery Rate |  错误发现率
 TIV              | Total Intracranial Volume | 颅内总体积
 EEG            |  electroencephalogram | 脑电图
 NMF            | Non-negative Matrix Factorization | 非负矩阵分解
+GLM        | General Linear Model | 一般线性模型   

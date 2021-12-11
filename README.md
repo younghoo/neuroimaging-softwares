@@ -14,7 +14,7 @@
 
 ## Pipeline软件
 
-[Brant](docs/Brant.md) | [CONN](docs/CONN.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [dMRIPrep](docs/dMRIPrep.md) | [fMRIPrep](docs/fMRIPrep.md) | [PANDA](docs/PANDA.md) | [volBrain](docs/volBrain.md)
+[Brant](docs/Brant.md) | [CONN](docs/CONN.md) | [Connectome Mapper 3](docs/CM3.md) | [C-PAC](docs/C-PAC.md) | [DPARSF](docs/DPARSF.md) | [dMRIPrep](docs/dMRIPrep.md) | [fMRIPrep](docs/fMRIPrep.md) | [PANDA](docs/PANDA.md) | [volBrain](docs/volBrain.md)
 
 ## 可视化软件
 

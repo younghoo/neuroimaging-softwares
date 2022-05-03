@@ -10,7 +10,7 @@
 
 ## 单一功能软件
 
-[brainGraph](docs/brainGraph.md) | [BRAPH](docs/BRAPH.md) | [CAT](docs/CAT.md) | [Collaborative\_Brain\_Decomposition](docs/Collaborative_Brain_Decomposition.md) | [Convert3D](docs/Convert3D.md) | [DSI Studio](docs/DSI-Studio.md) | [GBSS](docs/GBSS.md) | [GIFT](docs/GIFT.md) | [gRAICAR](docs/gRAICAR.md) | [GraphVar](docs/GraphVar.md) | [GRETNA](docs/GRETNA.md) | [ICA-AROMA](docs/ICA-AROMA.md) | [Icasso](docs/Icasso.md) | [MRtrix](docs/MRtrix.md) | [NBS](docs/NBS.md) | [NODDI toolbox](docs/NODDI-toolbox.md) | [PALM](docs/PALM.md) | [TrackVis](docs/TrackVis.md) 
+[brainGraph](docs/brainGraph.md) | [BRAPH](docs/BRAPH.md) | [CAT](docs/CAT.md) | [Collaborative\_Brain\_Decomposition](docs/Collaborative_Brain_Decomposition.md) | [Convert3D](docs/Convert3D.md) | [DSI Studio](docs/DSI-Studio.md) | [GBSS](docs/GBSS.md) | [GIFT](docs/GIFT.md) | [gRAICAR](docs/gRAICAR.md) | [GraphVar](docs/GraphVar.md) | [GRETNA](docs/GRETNA.md) | [ICA-AROMA](docs/ICA-AROMA.md) | [Icasso](docs/Icasso.md) | [MRtrix](docs/MRtrix.md) | [NBS](docs/NBS.md) | [NODDI toolbox](docs/NODDI-toolbox.md) | [PALM](docs/PALM.md) | [SDM](docs/SDM.md) | [TrackVis](docs/TrackVis.md) 
 
 ## Pipeline软件
 

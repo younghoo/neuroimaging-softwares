@@ -1,29 +1,41 @@
 #! /bin/bash
-## this script automatically updates README.md
-## obtain the script path
+## Run this script to automatically updates README.md
+## Obtain the script path
 curr_path="$(dirname "$0")"
 cd $curr_path
-## remove previous version
+## Remove the previous version
 if [[ -f ../README.md ]]
 then
     rm ../README.md
 fi
-## loop through each file
-echo "## 常用神经影像数据分析软件" >> ../README.md
+## Loop through each type and file
+echo "## Software Packages Used in My Projects" >> ../README.md
 echo >> ../README.md
-echo "这个仓库原计划是汇总神经影像数据分析软件，经过一段时间实践后发现，我能够接触和使用的软件很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些软件，方便自己查阅。" >> ../README.md
+echo "This repository documents the neuroimaging software packages I have used throughout my research journey. \
+Some remain essential tools in my current workflow, while others have been retired as my needs evolved. \
+I would like to express my sincere gratitude to all the scientists and developers who made these free and open-source software packages available to the research community." >> ../README.md
 echo >> ../README.md
-fnames=($(ls ../doc))
-for curr_file in ${fnames[*]}
+for curr_dir in ON OFF
 do
-  curr_name=$(echo $curr_file | cut -d '.' -f1)
-  ## if the item is the last one, don't print delimiter
-  last_item=${fnames[${#fnames[*]}-1]}
-  if [[ $curr_file != ${last_item} ]]
-  then
-      echo -n "[${curr_name}](doc/$curr_file) | " >> ../README.md
-  else
-      echo "[${curr_name}](doc/$curr_file)" >> ../README.md
-  fi
+    if [[ ${curr_dir} == 'ON' ]]
+    then
+        echo "## Still in Use" >> ../README.md
+    else
+        echo "## No Longer in Use" >> ../README.md
+    fi
+    echo >> ../README.md
+    fnames=($(ls ../doc/${curr_dir}))
+    for curr_file in ${fnames[*]}
+    do
+        curr_name=$(echo ${curr_file} | cut -d '.' -f1)
+        ## If the item is the last one, don't print delimiter
+        last_item=${fnames[${#fnames[*]}-1]}
+        if [[ ${curr_file} != ${last_item} ]]
+        then
+            echo -n "[${curr_name}](doc/${curr_dir}/${curr_file}) | " >> ../README.md
+        else
+            echo "[${curr_name}](doc/${curr_dir}/${curr_file})" >> ../README.md
+        fi
+    done
+    echo >> ../README.md
 done
-echo >> ../README.md

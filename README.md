@@ -4,7 +4,7 @@ This repository documents the neuroimaging software packages I have used through
 
 ## Still in Use
 
-[AFNI](doc/InUse/AFNI.md) | [AMICO](doc/InUse/AMICO.md) | [ANTs](doc/InUse/ANTs.md) | [BrainNet-Viewer](doc/InUse/BrainNet-Viewer.md) | [CAT](doc/InUse/CAT.md) | [Convert3D](doc/InUse/Convert3D.md) | [FreeSurfer](doc/InUse/FreeSurfer.md) | [fsbrain](doc/InUse/fsbrain.md) | [FSL](doc/InUse/FSL.md) | [ggseg](doc/InUse/ggseg.md) | [ITK-SNAP](doc/InUse/ITK-SNAP.md) | [MRIcroGL](doc/InUse/MRIcroGL.md) | [MRtrix](doc/InUse/MRtrix.md) | [PALM](doc/InUse/PALM.md) | [SPM](doc/InUse/SPM.md) | [SurfIce](doc/InUse/SurfIce.md)
+[AFNI](doc/InUse/AFNI.md) | [AMICO](doc/InUse/AMICO.md) | [ANTs](doc/InUse/ANTs.md) | [BrainNet-Viewer](doc/InUse/BrainNet-Viewer.md) | [CAT](doc/InUse/CAT.md) | [ComBat](doc/InUse/ComBat.md) | [Convert3D](doc/InUse/Convert3D.md) | [dcm2niix](doc/InUse/dcm2niix.md) | [FreeSurfer](doc/InUse/FreeSurfer.md) | [fsbrain](doc/InUse/fsbrain.md) | [FSL](doc/InUse/FSL.md) | [ggseg](doc/InUse/ggseg.md) | [HCPpipelines](doc/InUse/HCPpipelines.md) | [ITK-SNAP](doc/InUse/ITK-SNAP.md) | [MRIcroGL](doc/InUse/MRIcroGL.md) | [MRtrix](doc/InUse/MRtrix.md) | [PALM](doc/InUse/PALM.md) | [SPM](doc/InUse/SPM.md) | [SurfIce](doc/InUse/SurfIce.md) | [SynDisCo](doc/InUse/SynDisCo.md)
 
 ## No Longer in Use
 

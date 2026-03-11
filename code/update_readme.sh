@@ -15,9 +15,9 @@ echo "This repository documents the neuroimaging software packages I have used t
 Some remain essential tools in my current workflow, while others have been retired as my needs evolved. \
 I would like to express my sincere gratitude to all the scientists and developers who made these free and open-source software packages available to the research community." >> ../README.md
 echo >> ../README.md
-for curr_dir in ON OFF
+for curr_dir in InUse Legacy
 do
-    if [[ ${curr_dir} == 'ON' ]]
+    if [[ ${curr_dir} == 'InUse' ]]
     then
         echo "## Still in Use" >> ../README.md
     else

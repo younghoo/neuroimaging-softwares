@@ -4,9 +4,9 @@ This repository documents the neuroimaging software packages I have used through
 
 ## Still in Use
 
-[AFNI](doc/ON/AFNI.md) | [ANTs](doc/ON/ANTs.md) | [BrainNet-Viewer](doc/ON/BrainNet-Viewer.md) | [CAT](doc/ON/CAT.md) | [Convert3D](doc/ON/Convert3D.md) | [FreeSurfer](doc/ON/FreeSurfer.md) | [fsbrain](doc/ON/fsbrain.md) | [FSL](doc/ON/FSL.md) | [ggseg](doc/ON/ggseg.md) | [ITK-SNAP](doc/ON/ITK-SNAP.md) | [MRIcroGL](doc/ON/MRIcroGL.md) | [PALM](doc/ON/PALM.md) | [PhiPipe](doc/ON/PhiPipe.md) | [SPM](doc/ON/SPM.md) | [Surf-Ice](doc/ON/Surf-Ice.md)
+[AFNI](doc/InUse/AFNI.md) | [ANTs](doc/InUse/ANTs.md) | [BrainNet-Viewer](doc/InUse/BrainNet-Viewer.md) | [CAT](doc/InUse/CAT.md) | [Convert3D](doc/InUse/Convert3D.md) | [FreeSurfer](doc/InUse/FreeSurfer.md) | [fsbrain](doc/InUse/fsbrain.md) | [FSL](doc/InUse/FSL.md) | [ggseg](doc/InUse/ggseg.md) | [ITK-SNAP](doc/InUse/ITK-SNAP.md) | [MRIcroGL](doc/InUse/MRIcroGL.md) | [PALM](doc/InUse/PALM.md) | [PhiPipe](doc/InUse/PhiPipe.md) | [SPM](doc/InUse/SPM.md) | [SurfIce](doc/InUse/SurfIce.md)
 
 ## No Longer in Use
 
-[freesurfer_statsurf_display](doc/OFF/freesurfer_statsurf_display.md) | [GIFT](doc/OFF/GIFT.md) | [GRETNA](doc/OFF/GRETNA.md) | [ICA-AROMA](doc/OFF/ICA-AROMA.md) | [Icasso](doc/OFF/Icasso.md) | [MRIcron](doc/OFF/MRIcron.md) | [NBS](doc/OFF/NBS.md) | [PANDA](doc/OFF/PANDA.md) | [SDM](doc/OFF/SDM.md)
+[freesurfer_statsurf_display](doc/Legacy/freesurfer_statsurf_display.md) | [GIFT](doc/Legacy/GIFT.md) | [GRETNA](doc/Legacy/GRETNA.md) | [ICA-AROMA](doc/Legacy/ICA-AROMA.md) | [Icasso](doc/Legacy/Icasso.md) | [MRIcron](doc/Legacy/MRIcron.md) | [NBS](doc/Legacy/NBS.md) | [PANDA](doc/Legacy/PANDA.md) | [SDM](doc/Legacy/SDM.md)
 
